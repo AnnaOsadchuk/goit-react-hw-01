@@ -1,0 +1,20 @@
+.table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: black;
+  margin-bottom: 72px;
+}
+.headTable {
+  background-color: rgb(72, 69, 69);
+  color: #fff;
+}
+.tdTable {
+  border: 2px solid black;
+  text-align: center;
+  padding: 5px;
+}
+.trTable:nth-child(even) {
+  background-color: rgb(206, 202, 202);
+}
