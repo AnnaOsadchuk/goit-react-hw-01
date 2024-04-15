@@ -1,0 +1,27 @@
+.containerCard {
+  max-width: 140px;
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.imgCard {
+  width: 100px;
+}
+.nameCard {
+  font-size: 28px;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.onLine {
+  font-size: 20px;
+  color: black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: green;
+}
+.offLine {
+  color: red;
+}
