@@ -5,6 +5,7 @@
   border: 1px solid black;
   color: black;
   margin-bottom: 72px;
+  max-width: 700px;
 }
 .headTable {
   background-color: rgb(72, 69, 69);
